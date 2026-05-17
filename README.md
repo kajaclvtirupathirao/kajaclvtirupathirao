@@ -19,7 +19,7 @@ Passionate Java Full Stack Developer with hands-on experience in building web-ba
 
 ### 💻 Programming Languages
 - Java
-- SQL
+- ORACLE SQL
 
 ### 🌐 Frontend
 - HTML
