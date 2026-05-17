@@ -86,9 +86,9 @@ Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, JavaScript
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/linkedin.com/in/kaja-c-l-v-tirupathi-rao-198090261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaja-c-l-v-tirupathi-rao-198090261)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/kajaclvtirupathirao)
 
 ---
 
