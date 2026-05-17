@@ -78,9 +78,9 @@ Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, JavaScript
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajaclvtirupathirao&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kajaclvtirupathirao&layout=compact&theme=default)
 
 ---
 
